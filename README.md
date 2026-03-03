@@ -91,4 +91,4 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 
 ---
 
-> **Disclaimer:** This calculator is intended for **educational and entertainment purposes only**. It does not guarantee winnings and should not be used for gambling. Please play responsibly.
+> **Disclaimer:** This calculator is intended for **educational and entertainment purposes only**. It does not guarantee winnings and should not be used for gambling. Please play responsibly. Note, This project is done using vibecoding, I did not check the code.
