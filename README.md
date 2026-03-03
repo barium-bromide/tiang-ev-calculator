@@ -46,7 +46,7 @@ For those who prefer the command line, `tiang.sh` provides a fully featured term
 
 **Instant Run (via curl):**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/tiang-ev-calculator/master/tiang.sh | bash
+curl -fsSL https://raw.githubusercontent.com/barium-bromide/tiang-ev-calculator/refs/heads/master/tiang.sh | bash
 ```
 
 **Run Locally:**
